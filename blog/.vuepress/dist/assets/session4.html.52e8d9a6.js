@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7976758f","path":"/java-collections/session4.html","title":"5. So s\xE1nh ArrayList v\xE0 LinkedList","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":1,"words":7},"filePathRelative":"java-collections/session4.md"}');export{e as data};

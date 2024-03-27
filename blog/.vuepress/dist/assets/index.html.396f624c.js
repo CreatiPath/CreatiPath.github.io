@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d9adfd94","path":"/spring-boot/","title":"L\u1EDDi n\xF3i \u0111\u1EA7u","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":8,"words":1255},"filePathRelative":"spring-boot/readme.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4e67bc76","path":"/spring-boot/session4.html","title":"B\xE0i 4. DELETE API","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":1,"words":5},"filePathRelative":"spring-boot/session4.md"}');export{e as data};

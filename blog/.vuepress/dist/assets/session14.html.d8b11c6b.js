@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as t,d as e,e as n}from"./app.be380e2e.js";const o={},r=e("h1",{id:"_15-enum",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_15-enum","aria-hidden":"true"},"#"),n(" 15. Enum")],-1),c=[r];function _(d,i){return a(),t("div",null,c)}var l=s(o,[["render",_],["__file","session14.html.vue"]]);export{l as default};

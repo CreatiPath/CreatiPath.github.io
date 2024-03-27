@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-479459fa","path":"/spring-boot/session6.html","title":"B\xE0i 6. PUT v\xE0 PATCH API","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":1,"words":7},"filePathRelative":"spring-boot/session6.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f4a6573c","path":"/tags/authoriztion/","title":"Authoriztion | Tags","lang":"vi-VN","frontmatter":{"title":"Authoriztion | Tags","layout":"Tags","blog":{"type":"category","name":"Authoriztion","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{t as data};

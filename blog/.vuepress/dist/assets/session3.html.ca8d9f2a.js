@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as t,d as e,e as o}from"./app.be380e2e.js";const r={},c=e("h1",{id:"bai-3-get-api",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bai-3-get-api","aria-hidden":"true"},"#"),o(" B\xE0i 3. GET API")],-1),i=[c];function n(_,d){return s(),t("div",null,i)}var l=a(r,[["render",n],["__file","session3.html.vue"]]);export{l as default};

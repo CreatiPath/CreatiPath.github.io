@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1dabf16c","path":"/java-collections/session14.html","title":"15. Enum","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":1,"words":2},"filePathRelative":"java-collections/session14.md"}');export{e as data};

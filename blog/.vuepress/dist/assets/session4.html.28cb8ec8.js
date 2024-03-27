@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as o,d as e,e as r}from"./app.be380e2e.js";const t={},c=e("h1",{id:"bai-4-forms",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bai-4-forms","aria-hidden":"true"},"#"),r(" B\xE0i 4. Forms")],-1),n=[c];function i(_,d){return a(),o("div",null,n)}var h=s(t,[["render",i],["__file","session4.html.vue"]]);export{h as default};
