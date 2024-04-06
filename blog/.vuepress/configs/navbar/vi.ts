@@ -12,79 +12,106 @@ export const vi: NavbarConfig = [
     icon: "fa-paw"  //"fa-paw"
   },
   {
-    text: "Bài viết",
+    text: "Từ khóa",
     link: "/tags/",
     icon: "gi-evil-book"
   },
-  {
-    text: "Công nghệ",
-    link: "/tech/",
-    icon: "gi-pc"
-  },
+  // {
+  //   text: "Công nghệ",
+  //   link: "/tech/",
+  //   icon: "gi-pc"
+  // },
 
   {
-    text: "Nền tảng",
-    icon: "ri-code-s-slash-line",
+    text: "Thiết kế",
+    icon: "md-draw",
     children: [
       {
-        text: "Cơ sở ngành",
+        text: "Thiết kế 2D",
+        icon: "px-monitor",
+        children: [
+          {
+            text: "Thiết kế 2D với Adobe Animate",
+            link: "/animate/section1.html",
+            icon: "co-adobe"
+          },
+        ]
+      },
+      {
+        text: "Thiết kế 3D",
+        icon: "fc-command-line",
+        children: [
+          {
+            text: "NodeJS",
+            link: "/nodejs/",
+            icon: "vi-file-type-node"
+          },
+          {
+            text: "Spring Boot",
+            link: "/spring-boot/",
+            icon: "co-spring"
+          },
+          {
+            text: "PHP Zero to Hero",
+            link: "/php-core/",
+            icon: "vi-file-type-php2"
+          },
+        ]
+      },
+    ]
+  },
+  {
+    text: "Phím tắt",
+    icon: "md-keyboardoptionkey-outlined",
+    children: [
+      {
+        text: "Phần mềm dành cho ấn phẩm",
         // link: "/docs/intro.md",
         // icon: "vi-file-type-cpp",
         children: [
           {
-            text: "Lý thuyết đồ thị",
+            text: "Phím tắt Photoshop",
             link: "/graph/",
-            icon: "vi-file-type-storyboard"
+            icon: "si-adobephotoshop"
           },
           {
-            text: "Cấu trúc dữ liệu & giải thuật",
-            link: "/dsa/",
-            icon: "fc-tree-structure"
+            text: "Phím tắt Illustrator",
+            link: "/illustrator-short/section1.html",
+            icon: "si-adobeillustrator"
+          },
+          {
+            text: "Phím tắt Indesign",
+            link: "/indesign-short/section1.html",
+            icon: "si-adobeindesign"
           },
         ]
       },
       {
-        text: "Lập trình căn bản",
+        text: "Phần mềm dành cho Motion 2D",
         // link: "/docs/intro.md",
         // icon: "vi-file-type-cpp",
         children: [
           {
-            text: "Lập trình C",
-            link: "/c/",
-            icon: "vi-file-type-cpp"
+            text: "Phím tắt After Effects",
+            link: "/aftereffects-short/section1.html",
+            icon: "si-adobeaftereffects"
           },
           {
-            text: "Lập trình Java Core",
-            link: "/java-core/",
-            icon: "vi-file-type-jar"
+            text: "Phím tắt Animate",
+            link: "/animate-short/section1.html",
+            icon: "co-adobe"
           },
         ]
       },
       {
-        text: "Lập trình OOP",
-        icon: "fa-java",
-        children: [
-          {
-            text: "Lập trình Hướng đối tượng với Java",
-            link: "/java-oop/",
-            icon: "vi-file-type-maven"
-          },
-          {
-            text: "Các Collections trong Java",
-            link: "/java-collections/",
-            icon: "vi-file-type-maven"
-          },
-        ]
-      },
-      {
-        text: "Xây dựng cơ sở dữ liệu",
+        text: "Phần mềm dành cho 3D",
         // link: "/docs/intro.md",
         icon: "vi-file-type-plsql-package-spec",
         children: [
           {
-            text: "Microsoft SQL Server",
-            link: "/sql-server/",
-            icon: "vi-file-type-sql"
+            text: "Phím tắt Blender",
+            link: "/blender-short/section1.html",
+            icon: "si-blender"
           },
           // {
           // 	text: "JavaScript ES6",
@@ -116,51 +143,6 @@ export const vi: NavbarConfig = [
   // 		},
   // 	]
   // },
-  {
-    text: "Nâng cao",
-    icon: "si-codersrank",
-    children: [
-      {
-        text: "Lập trình FrontEnd",
-        link: "/docs/intro.md",
-        icon: "px-monitor",
-        children: []
-      },
-      {
-        text: "Lập trình BackEnd",
-        icon: "fc-command-line ",
-        children: [
-          {
-            text: "NodeJS",
-            link: "/nodejs/",
-            icon: "vi-file-type-node"
-          },
-          {
-            text: "Spring Boot",
-            link: "/spring-boot/",
-            icon: "co-spring"
-          },
-          {
-            text: "PHP Zero to Hero",
-            link: "/php-core/",
-            icon: "vi-file-type-php2"
-          },
-        ]
-      },
-      {
-        text: "Lập trình DesktopApp",
-        // link: "/docs/intro.md",
-        icon: "vi-file-type-js",
-        children: [
-          {
-            text: "Lập trình Java Swing",
-            link: "/docs/intro.md",
-            icon: "vi-folder-type-cubit-opened"
-          },
-        ]
-      },
-    ]
-  },
   {
     text: "Công cụ",
     icon: "la-tools-solid",

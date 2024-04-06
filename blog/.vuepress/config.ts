@@ -17,7 +17,7 @@ export default defineUserConfig({
         rel: "icon",
         type: "image/png",
         sizes: "16x16",
-        href: `/img/logo/dvnb.png`
+        href: `/img/logo/logocp.png`  //đường dẫn ảnh
       }
     ],
     [
@@ -26,7 +26,7 @@ export default defineUserConfig({
         rel: "icon",
         type: "image/png",
         sizes: "32x32",
-        href: `/img/logo/dvnb.png`
+        href: `/img/logo/logocp.png`
       }
     ],
     ["meta", { name: "application-name", content: "Davis" }],
@@ -92,21 +92,21 @@ export default defineUserConfig({
     repo: "CreatiPath/CreatiPath.github.io",
     docsDir: "blog",
     docsBranch: "main",
-    navbarTitle: "Davis",
+    navbarTitle: "CreatiPath",
     hitokoto: "https://v1.hitokoto.vn?c=i", // enable hitokoto (一言) or not?
     searchText: " ",
     // personal information
     personalInfo: {
-      name: "Tran Huu Dang",
-      avatar: "/img/logo/thean.png",
+      name: "CreatiPath",
+      avatar: "/img/logo/800b2a20a7ca089451db.jpg",
       // description: "いつか、私がヒトじゃなくなっても",
-      description: "Tiêu đề phụ",
+      description: "Hành Trình Đến Với Sáng Tạo",
       sns: {
         github: "CreatiPath",
         linkedin: "CreatiPath",
         facebook: "CreatiPath",
         twitter: "CreatiPath",
-        email: "CreatiPath@gmail.com",
+        email: "creatipath@gmail.com",
         // rss: "/rss.xml"
       }
     },
@@ -125,20 +125,25 @@ export default defineUserConfig({
         path: "/img/home-bg/3.png",
         mask: "rgba(68, 74, 83, .1)"
       },
-      // {
-      // 	path: "/img/home-bg/4.jpg",
-      // 	mask: "rgba(19, 75, 50, .2)"
-      // },
-      // {
-      // 	path: "/img/home-bg/5.jpg"
-      // }
+      {
+        path: "/img/home-bg/artboard4.png",
+        mask: "rgba(68, 74, 83, .1)"
+      },
+      {
+        path: "/img/home-bg/artboard5.png",
+        mask: "rgba(68, 74, 83, .1)"
+      },
+      {
+        path: "/img/home-bg/artboard6.png",
+        mask: "rgba(68, 74, 83, .1)"
+      },
     ],
 
     // other pages
     pages: {
       tags: {
-        title: "Bài viết",
-        subtitle: "Bạn có thể tìm theo từng từ khóa về công nghệ và ngôn ngữ lập trình",
+        title: "Các từ khóa",
+        subtitle: "Những từ khóa tìm kiếm ý tưởng và tài nguyên thiết kế",
         bgImage: {
           path: "/img/pages/tags.jpg",
           mask: "rgba(211, 136, 37, .5)"

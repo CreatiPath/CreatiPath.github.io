@@ -27,62 +27,51 @@ export const en: NavbarConfig = [
     icon: "ri-code-s-slash-line",
     children: [
       {
-        text: "Cơ sở ngành",
+        text: "Thiết kế 2D",
         // link: "/docs/intro.md",
         // icon: "vi-file-type-cpp",
         children: [
           {
-            text: "Lý thuyết đồ thị",
+            text: "Phím tắt Adobe Photoshop",
             link: "/graph/",
             icon: "vi-file-type-storyboard"
           },
           {
-            text: "Cấu trúc dữ liệu & giải thuật",
+            text: "Phím tắt Adobe Illustrator",
+            link: "/dsa/",
+            icon: "fc-tree-structure"
+          },
+          {
+            text: "Phím tắt Adobe Indesign",
             link: "/dsa/",
             icon: "fc-tree-structure"
           },
         ]
       },
       {
-        text: "Lập trình căn bản",
+        text: "Motion Graphic",
         // link: "/docs/intro.md",
         // icon: "vi-file-type-cpp",
         children: [
           {
-            text: "Lập trình C",
+            text: "Phím tắt Adobe After Effects",
             link: "/c/",
             icon: "vi-file-type-cpp"
           },
           {
-            text: "Lập trình Java Core",
+            text: "Phím tắt Adobe Animate",
             link: "/java-core/",
             icon: "vi-file-type-jar"
           },
         ]
       },
       {
-        text: "Lập trình OOP",
-        icon: "fa-java",
-        children: [
-          {
-            text: "Lập trình Hướng đối tượng với Java",
-            link: "/java-oop/",
-            icon: "vi-file-type-maven"
-          },
-          {
-            text: "Các Collections trong Java",
-            link: "/java-collections/",
-            icon: "vi-file-type-maven"
-          },
-        ]
-      },
-      {
-        text: "Xây dựng cơ sở dữ liệu",
+        text: "Thiết kế 3D",
         // link: "/docs/intro.md",
         icon: "vi-file-type-plsql-package-spec",
         children: [
           {
-            text: "Microsoft SQL Server",
+            text: "Phím tắt Blender",
             link: "/sql-server/",
             icon: "vi-file-type-sql"
           },

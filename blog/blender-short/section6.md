@@ -1,0 +1,13 @@
+# Phím tắt dựng hình
+- Shift + A: Tạo vật thể
+- Delete: Xóa vật thể
+- E: Đẩy khối
+- A: Chọn hết
+- I: Insert
+- K: Chọn đường cắt
+- F: Lắp đầy mặt phẳng
+- Alt + Click: Chọn loop điểm, đường hay mặt
+- Shift + Click: Chọn được nhiều điểm, đường, mặt theo ý muốn
+- Ctrl + Click: Bớt điểm, đường, mặt trong khu vực chọn
+- Ctrl + R: Chia đường cắt
+- Ctrl + B: Vát cạnh

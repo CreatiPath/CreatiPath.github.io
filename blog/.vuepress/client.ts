@@ -52,7 +52,11 @@ import {
   SiAdobelightroom,
   SiAdobeaudition,
   CoAdobe,
-  ViFileTypeDocker2
+  ViFileTypeDocker2,
+  SiBlender,
+  SiAdobeindesign,
+  MdDraw,
+  MdKeyboardoptionkeyOutlined
 } from "oh-vue-icons/icons";
 
 addIcons(
@@ -108,7 +112,11 @@ addIcons(
   SiAdobelightroom,
   SiAdobeaudition,
   CoAdobe,
-  ViFileTypeDocker2
+  ViFileTypeDocker2,
+  SiBlender,
+  SiAdobeindesign,
+  MdDraw,
+  MdKeyboardoptionkeyOutlined
 );
 
 export default defineClientConfig({});
