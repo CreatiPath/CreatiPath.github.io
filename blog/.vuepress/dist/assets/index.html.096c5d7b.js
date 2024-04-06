@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-63e5b0be","path":"/java-core/","title":"L\u1EDDi n\xF3i \u0111\u1EA7u","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":4,"words":499},"filePathRelative":"java-core/readme.md"}');export{e as data};

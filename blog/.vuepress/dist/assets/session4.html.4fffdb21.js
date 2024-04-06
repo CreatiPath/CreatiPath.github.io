@@ -1,1 +1,0 @@
-import{_ as a,o as s,c as t,d as e,e as o}from"./app.be380e2e.js";const r={},c=e("h1",{id:"bai-4-delete-api",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bai-4-delete-api","aria-hidden":"true"},"#"),o(" B\xE0i 4. DELETE API")],-1),i=[c];function n(d,_){return s(),t("div",null,i)}var h=a(r,[["render",n],["__file","session4.html.vue"]]);export{h as default};

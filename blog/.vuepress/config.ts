@@ -38,7 +38,7 @@ export default defineUserConfig({
     ],
     [
       "link",
-      { rel: "apple-touch-icon", href: `/img/logo/apple-touch-icon.png` }
+      { rel: "apple-touch-icon", href: `/img/logo/logocp.png` }
     ],
     ["meta", { name: "theme-color", content: "#377bb5" }],
     ["meta", { name: "msapplication-TileColor", content: "#377bb5" }],
@@ -76,13 +76,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "vi-VN",
-      title: "Tên web ",
-      description: "Mô tả "
+      title: "CreatiPath",
+      description: "Hành tình đến với sáng tạo"
     },
     "/en/": {
       lang: "en-US",
       title: "CreatiPath",
-      description: "Mô tả "
+      description: "Hành trình đến với sáng tạo"
     }
   },
 
@@ -113,28 +113,28 @@ export default defineUserConfig({
 
     // header images on home page
     homeHeaderImages: [
+      // {
+      //   path: "/img/home-bg/1.png",
+      //   mask: "rgba(40, 57, 101, .4)"
+      // },
       {
-        path: "/img/home-bg/1.png",
-        mask: "rgba(40, 57, 101, .4)"
-      },
-      {
-        path: "/img/home-bg/2.png",
+        path: "/img/home-bg/1.jpg",
         mask: "rgba(196, 176, 131, .1)"
       },
       {
-        path: "/img/home-bg/3.png",
+        path: "/img/home-bg/2.jpg",
         mask: "rgba(68, 74, 83, .1)"
       },
       {
-        path: "/img/home-bg/artboard4.png",
+        path: "/img/home-bg/12.png",
         mask: "rgba(68, 74, 83, .1)"
       },
       {
-        path: "/img/home-bg/artboard5.png",
+        path: "/img/home-bg/13.png",
         mask: "rgba(68, 74, 83, .1)"
       },
       {
-        path: "/img/home-bg/artboard6.png",
+        path: "/img/home-bg/14.png",
         mask: "rgba(68, 74, 83, .1)"
       },
     ],
@@ -149,15 +149,15 @@ export default defineUserConfig({
           mask: "rgba(211, 136, 37, .5)"
         }
       },
-      links: {
-        title: "Công nghệ",
-        subtitle:
-          "Các công nghệ mình sẽ hướng dẫn",
-        bgImage: {
-          path: "/img/pages/links.jpg",
-          mask: "rgba(64, 118, 190, 0.5)"
-        }
-      }
+      // links: {
+      //   title: "Công nghệ",
+      //   subtitle:
+      //     "Các công nghệ mình sẽ hướng dẫn",
+      //   bgImage: {
+      //     path: "/img/pages/links.jpg",
+      //     mask: "rgba(64, 118, 190, 0.5)"
+      //   }
+      // }
     },
 
     // theme-level locales config
@@ -211,9 +211,9 @@ export default defineUserConfig({
       }
     },
     footer: `
-      &copy; <a href="https://github.com/Theanishtar" target="_blank">CreatiPath Team</a> 2024
+      &copy; <a href="https://github.com/creatipath" target="_blank">CreatiPath Team</a> 2024
       <br>
-      Powered by <a href="https://www.facebook.com/vitamincodevn/" target="_blank">HAUNP
+      Powered by <a href="https://www.facebook.com/creatipath/" target="_blank">CreatiPath
     `
   }),
 

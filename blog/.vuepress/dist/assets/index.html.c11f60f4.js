@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-f06f832a","path":"/tags/interview/","title":"interview | Tags","lang":"vi-VN","frontmatter":{"title":"interview | Tags","layout":"Tags","blog":{"type":"category","name":"interview","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

@@ -11,16 +11,6 @@ export const vi: NavbarConfig = [
     link: "/about",
     icon: "fa-paw"  //"fa-paw"
   },
-  {
-    text: "Từ khóa",
-    link: "/tags/",
-    icon: "gi-evil-book"
-  },
-  // {
-  //   text: "Công nghệ",
-  //   link: "/tech/",
-  //   icon: "gi-pc"
-  // },
 
   {
     text: "Thiết kế",
