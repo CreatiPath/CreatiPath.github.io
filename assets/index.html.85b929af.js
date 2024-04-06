@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6a8cb504","path":"/indesign-short/","title":"Ph\xEDm t\u1EAFt","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1712374861000},"readingTime":{"minutes":1,"words":4},"filePathRelative":"indesign-short/readme.md"}');export{e as data};

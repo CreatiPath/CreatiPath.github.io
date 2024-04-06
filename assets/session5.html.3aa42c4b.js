@@ -1,1 +1,0 @@
-import{_ as a,o as s,c as t,d as e,e as i}from"./app.be380e2e.js";const o={},r=e("h1",{id:"bai-5-file",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bai-5-file","aria-hidden":"true"},"#"),i(" B\xE0i 5. File")],-1),c=[r];function n(_,d){return s(),t("div",null,c)}var f=a(o,[["render",n],["__file","session5.html.vue"]]);export{f as default};

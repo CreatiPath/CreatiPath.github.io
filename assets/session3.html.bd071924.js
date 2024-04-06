@@ -1,1 +1,0 @@
-import{_ as a,o as s,c as t,d as e,e as o}from"./app.be380e2e.js";const r={},c=e("h1",{id:"bai-3-ham-va-html",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bai-3-ham-va-html","aria-hidden":"true"},"#"),o(" B\xE0i 3. H\xE0m v\xE0 HTML")],-1),n=[c];function i(_,d){return s(),t("div",null,n)}var l=a(r,[["render",i],["__file","session3.html.vue"]]);export{l as default};

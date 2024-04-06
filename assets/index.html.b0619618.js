@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2f9253b4","path":"/sql-server/","title":"L\u1EDDi n\xF3i \u0111\u1EA7u","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":4,"words":591},"filePathRelative":"sql-server/readme.md"}');export{e as data};
