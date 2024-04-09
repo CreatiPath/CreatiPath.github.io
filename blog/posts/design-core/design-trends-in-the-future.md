@@ -2,18 +2,18 @@
 layout: Post
 title: Xu hướng thiết kế trong tương lai
 subtitle: Design Trends in the Future
-author: Trần Thanh Lan - Nguyễn Thị Bé Ngọc
+author: CreatiPath Team
 date: 2024-08-04
-useHeaderImage: true
-headerImage: /img/home-bg/5.jpg
+useHeaderImage: false
+headerImage: /img/pages/xu-huong-thiet-ke-trong-tuong-lai.png
 headerMask: rgba(70, 112, 80, 0.8)
 permalinkPattern: /post/design-core/:slug
 tags:
   - Thiết kế
-  - Trần Thanh Lan 
-  - Nguyễn Thị Bé Ngọc
   - Màu sắc
 ---
+
+![](../../.vuepress/public/img/pages/xu-huong-thiet-ke-trong-tuong-lai.png)
 
 Trong thời gian vừa qua, công việc của một nhà thiết kế đồ họa (Graphic Designer) đã có nhiều thay đổi khi công nghệ ngày càng phát triển. Không chỉ là những hình ảnh tĩnh đơn thuần, giờ đây các thiết kế phải áp dụng nhiều kỹ xảo, tính năng mới lạ như chuyển động (motion), thực tế ảo, thực tế tăng cường, 3D,... để có thể nổi bật trên thị trường, gây ấn tượng và thu hút đối tượng mục tiêu.
 

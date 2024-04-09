@@ -2,18 +2,18 @@
 layout: Post
 title: Ý nghĩa màu sắc và cách ứng dụng màu trong thiết kế
 subtitle: Meaning of colors and color application in design
-author: Trần Thanh Lan - Nguyễn Thị Bé Ngọc
+author: CreatiPath Team
 date: 2024-08-04
-useHeaderImage: true
-headerImage: /img/home-bg/5.jpg
+useHeaderImage: false
+headerImage: /img/pages/y-nghia-mau-sac.png
 headerMask: rgba(70, 112, 80, 0.8)
 permalinkPattern: /post/design-core/:slug/
 tags:
   - Thiết kế
-  - Trần Thanh Lan 
-  - Nguyễn Thị Bé Ngọc
   - Màu sắc
 ---
+
+![](../../.vuepress/public/img/pages/y-nghia-mau-sac.png)
 
 :::info
 Màu sắc là linh hồn của thiết kế. Nó là nghệ thuật, và cũng là khoa học. Mỗi màu sắc đều mang những cảm xúc và ý nghĩa riêng, trong bài viết này chúng ta sẽ tìm hiểu ý nghĩa màu sắc phổ biến nhất. Ngoài ra, bài viết cũng sẽ liệu kê một số ví dụ về cách ứng dụng màu sắc trong thiết kế, để bạn có cái nhìn bao quát hơn về cách sử dụng màu sắc. 

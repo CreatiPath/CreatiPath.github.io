@@ -5,12 +5,14 @@ subtitle: Tìm hiểu về bọn mình
 author: CreatiPath
 date: 2024-04-06
 useHeaderImage: false
-headerImage: /img/home-bg/4.jpg
+headerImage: /img/pages/gioi-thieu-ve-nhom.png
 headerMask: rgba(70, 112, 80, 0)
 permalinkPattern: /post/about/:slug/
 tags:
   - about
 ---
+
+![](../../.vuepress/public/img/pages/gioi-thieu-ve-nhom.png)
 
 Trong công nghệ xây dựng web-app hiện nay, có thể nói mô hình SCR (Client Side Rendering) đang được phát triển một cách vượt bật. 
 

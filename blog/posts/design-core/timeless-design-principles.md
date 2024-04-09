@@ -2,17 +2,17 @@
 layout: Post
 title: Nguyên tắc cơ bản trong thiết kế
 subtitle: 7 nguyên tắc “bất hủ” trong thiết kế
-author: Trần Thanh Lan - Nguyễn Thị Bé Ngọc
+author: CreatiPath Team
 date: 2024-08-04
 useHeaderImage: false
-headerImage: /img/home-bg/5.jpg
+headerImage: /img/pages/nguyen-tac-co-ban-trong-thiet-ke.png
 headerMask: rgba(70, 112, 80, 0)
 permalinkPattern: /post/design-core/:slug/
 tags:
   - Thiết kế
-  - Trần Thanh Lan 
-  - Nguyễn Thị Bé Ngọc
 ---
+
+![](../../.vuepress/public/img/pages/nguyen-tac-co-ban-trong-thiet-ke.png)
 
 Nếu như những yếu tố cơ bản như đường nét, hình khối,… là cơ sở hình thành nên một thiết kế thì những nguyên tắc chính là “lớp keo” kết nối các yếu tố đó lại với nhau để tạo nên một tổng thể hài hòa và ấn tượng. 
 

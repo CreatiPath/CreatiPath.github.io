@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-918bf05a","path":"/animate-short/section3.html","title":"Ph\xEDm t\u1EAFt khi s\u1EED d\u1EE5ng thanh TOOLBAR","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1712374861000},"readingTime":{"minutes":1,"words":20},"filePathRelative":"animate-short/section3.md"}');export{t as data};

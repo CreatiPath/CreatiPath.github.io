@@ -5,13 +5,14 @@ subtitle: Tìm hiểu về CreatiPath
 author: CreatiPath
 date: 2024-06-04
 useHeaderImage: false
-headerImage: /img/home-bg/5.jpg
+headerImage: /img/home-bg/pages/gioi-thieu-ve-du-an.png
 headerMask: rgba(70, 112, 80, 0)
 permalinkPattern: /post/interview/:slug/
 tags:
   - project
 ---
 
+![](../../.vuepress/public/img/pages/gioi-thieu-ve-du-an.png)
 
 Là một lập trình viên Java, chắc hẳn bạn đã học rất nhiều kiến thức vô cùng quan trọng để có thể thực hiện các dự án của mình và chuẩn bị cho công việc sau này. Tuy nhiên, liệu những câu hỏi phỏng vấn tại các công ty có giống với những gì bạn đã học.
 

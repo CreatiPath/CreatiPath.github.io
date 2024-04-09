@@ -2,18 +2,19 @@
 layout: Post
 title: Tư duy thiết kế và công cụ cái nào quan trọng hơn
 subtitle: Design Thinking and Which Tool is More Important
-author: Trần Thanh Lan - Nguyễn Thị Bé Ngọc
+author: CreatiPath Team
 date: 2024-08-04
-useHeaderImage: true
-headerImage: /img/home-bg/5.jpg
+useHeaderImage: false
+headerImage: /img/pages/tu-duy-hay-cong-cu-cnqth.png
 headerMask: rgba(70, 112, 80, 0.8)
 permalinkPattern: /post/design-core/:slug
 tags:
   - Thiết kế
-  - Trần Thanh Lan 
-  - Nguyễn Thị Bé Ngọc
   - Màu sắc
 ---
+
+![](../../.vuepress/public/img/pages/tu-duy-hay-cong-cu-cnqth.png)
+
 Cả tư duy thiết kế và công cụ đều quan trọng trong quá trình thiết kế.
 Tư duy thiết kế là quá trình nghiên cứu người dùng, và xác định lại vấn đề nhằm tìm kiếm các chiến lược và giải pháp thay thế tối ưu hơn. Nó giúp doanh nghiệp thấu hiểu người dùng và mục tiêu. Tư duy thiết kế  cung cấp một loại các giải pháp hữu ích giúp bạn áp dụng vào vấn đề của mình.
  

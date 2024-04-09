@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-467a1ba1","path":"/aftereffects-short/","title":"Ph\xEDm t\u1EAFt","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1712374861000},"readingTime":{"minutes":1,"words":4},"filePathRelative":"aftereffects-short/readme.md"}');export{e as data};

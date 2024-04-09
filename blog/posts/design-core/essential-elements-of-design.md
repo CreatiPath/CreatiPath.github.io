@@ -2,18 +2,17 @@
 layout: Post
 title: Những điều cần có trong 1 thiết kế
 subtitle: 6 Điều làm nên một thiết kế tốt
-author: Trần Thanh Lan - Nguyễn Thị Bé Ngọc
+author: CreatiPath Team
 date: 2024-08-04
-useHeaderImage: true
-headerImage: /img/home-bg/5.jpg
+useHeaderImage: false
+headerImage: /img/pages/nguyen-tac-trong-thiet-ke.png
 headerMask: rgba(70, 112, 80, 0.8)
 permalinkPattern: /post/design-core/:slug
 tags:
   - Thiết kế
-  - Trần Thanh Lan 
-  - Nguyễn Thị Bé Ngọc
   - Màu sắc
 ---
+
 
 ![](../../.vuepress/public/img/in-post/section3/1.png)
 
