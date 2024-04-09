@@ -14,249 +14,54 @@ tags:
 
 ![](../../.vuepress/public/img/pages/gioi-thieu-ve-nhom.png)
 
-Trong công nghệ xây dựng web-app hiện nay, có thể nói mô hình SCR (Client Side Rendering) đang được phát triển một cách vượt bật. 
+# Giới thiệu dự án
 
-Cùng với sự ưa chuộng ấy, ==Rest API== đóng vai trò rất quan trọng trong việc kết nối ***Back-end*** và ***Front-end***...
+CreatiPath - Hành trình đến với sáng tạo
+Đây là một dự án được thực hiện bởi các bạn sinh viên thiết kế đồ họa với mục đích tạo ra một kho kiến thức cho cộng đồng các bạn đã và đang hoặc sẽ trở thành một nhà thiết kế đồ họa có nhu cầu tìm hiểu, học hỏi thêm các thông tin về ngành đồ họa.
 
-Hôm nay hãy cùng mình phân biệt hai khái niệm API gồm `Restful` và `Non-Restful` nha ^^
+CreatiPath là tên trang web mà chúng mình đã thực hiện, và trong đó chúng mình sẽ tổng hợp các kiến thức về những phần mềm không thể bỏ qua của ngành đồ họa bao gồm Adobe Photoshop, Adobe Illustrator, Blender,... 
 
-![](https://github.com/dangtranhuu/images/blob/main/frogcyber/post/interview/api/banner.png?raw=true)
+## Các thành viên
 
-## Khái niệm
+Trần Thị Mỹ Duyên
 
-### RestAPI 
+Trần Thanh Lan
 
-Rest API là một ứng dụng được dùng để chuyển đổi cấu trúc của dữ liệu có những phương thức giúp kết nối với các thư viện và ứng dụng khác nhau. 
+Nguyễn Thị Bé Ngọc
 
-Rest Api thường không được xem là công nghệ, mà nó là giải pháp giúp tạo ra những ứng dụng web services chuyên dụng để thay thế cho nhiều kiểu khác như: [SOAP](), [WSDL](),...
+Nguyễn Phúc Hậu
 
-![](https://github.com/dangtranhuu/images/blob/main/frogcyber/post/interview/api/restapi.png?raw=true)
+Đổ Văn An
 
-### Restful API
+Trần Đức Duy
 
-Restful API là một trong những tiêu chuẩn được sử dụng để thiết kế API cho các ứng dụng web, để tiện hơn cho việc quản lý các `resource`. 
+## Dự định trong tương lai?
 
-Rest API thường chú trọng vào các tài nguyên của hệ thống bao gồm: ảnh, văn bản, âm thanh, video hoặc các dữ liệu di động,... 
+Tại CreatiPath, chúng tôi không chỉ xây dựng một trang web chia sẻ kiến thức thiết kế đồ họa mà còn đang tạo ra một cộng đồng đam mê và cống hiến cho nghệ thuật thiết kế. Trong tương lai, chúng tôi cam kết phát triển và mở rộng sứ mệnh của mình để mang lại giá trị và cơ hội cho mọi người:
 
-Nó thường bao gồm các trạng thái tài nguyên đã được định dạng sẵn và được truyền tải thông qua HTTP.
+Nền tảng Học tập Sâu Sắc: Chúng tôi sẽ liên tục cập nhật và mở rộng thư viện tài nguyên, bài học, và hướng dẫn về thiết kế đồ họa để cung cấp cho cộng đồng một nguồn thông tin đáng tin cậy và đa dạng.
 
-- Một chức năng quan trọng nhất của REST là: 
-    - Quy định các cách sử dụng `HTTP` method chẳng hạn như: `POST`, `GET`, `DELETE`, `PUT`,... và cách có thể định dạng các `URL` cho ứng dụng web để có thể quản lý được các `resource`. 
-    - Restful không quy định logic code ứng dụng và không được giới hạn bởi những ngôn ngữ lập trình ứng dụng. 
-    - Bất kỳ framework hoặc ngôn ngữ nào cũng có thể được dùng để thiết kế được một Restful API.
+Cộng Đồng Sôi Nổi: Chúng tôi muốn xây dựng một cộng đồng đa dạng và tích cực, nơi mọi người có thể chia sẻ ý tưởng, kinh nghiệm và hỗ trợ lẫn nhau trong quá trình học và phát triển.
 
-#### API
+Sự Nghiệp và Sự Phát Triển Cá Nhân: CreatiPath sẽ cung cấp các khóa học và tài nguyên không chỉ giúp người dùng nâng cao kỹ năng thiết kế của họ mà còn hỗ trợ họ trong việc xây dựng sự nghiệp và phát triển cá nhân.
 
-[API]() là từ viết tắt của cụm từ ==Application Programming Interface==
+Sự Sáng Tạo và Khám Phá: Chúng tôi sẽ khuyến khích sự sáng tạo và khám phá trong thiết kế đồ họa bằng cách cung cấp các dự án thú vị, thử thách và cơ hội hợp tác.
 
-Đây là tập hợp những quy tắc và cơ chế mà theo đó thì: Một ứng dụng hoặc một thành phần nào đó sẽ tương tác với một ứng dụng hoặc một số thành phần khác. 
+Công Nghệ và Tiên Tiến: CreatiPath sẽ tiếp tục theo đuổi sự tiên tiến trong công nghệ và phương pháp thiết kế mới nhằm đáp ứng nhu cầu ngày càng đa dạng của cộng đồng thiết kế.
 
-[API]() có thể sẽ được trả về dữ liệu mà người dùng cần cho chính ứng dụng của bạn với những kiểu dữ liệu được dùng phổ biến như `JSON` hoặc `XML`. 
+Với những cam kết này, chúng tôi hy vọng CreatiPath sẽ không chỉ là một trang web chia sẻ kiến thức mà còn là một điểm đến đầy cảm hứng và thú vị cho mọi người đam mê thiết kế đồ họa.
 
-#### REST
+## Liên hệ với chúng tôi như thế nào?
+ 
+::: link {fa-github-alt} [0799583258]()
+Liên hệ với tụi mình qua số này!
+::: 
 
-Rest là từ viết tắt của ==Representational State Transfer==
+::: link {fa-linkedin-in} [CreatiPath]()
+Trang Facebook của tụi mình
+::: 
 
-Nó là một trong những dạng chuyển đổi cấu trúc, với kiểu kiến trúc thường được viết API. Rest thường sử dụng dụng phương thức `HTTP` đơn giản để có thể tạo ra giao tiếp giữa các máy. 
-
-Bởi vì thế, thay vì phải sử dụng một `URL` cho việc xử lý một số thông tin của người dùng thì Rest sẽ yêu cầu `HTTP` như: `GET`, `POST`, `DELETE`,... đến với bất kỳ một `URL` để được xử lý dữ liệu. 
-
-
-## Ví dụ thực tế
-
-Đặt thuộc tính hợp anh dev trẻ tuổi tên `Đ` đang làm một website xem video tương tự như [YouTube]() chẳng hạn
-
-Các thao tác cơ bản gồm:
-- Thêm, sửa, xóa [video]()
-- like, share, comment [video]()
-
-
-#### Non-Restful
-
-RestAPI thông thường được chia ra hai thao tác chính là: `POST` và `GET`
-
-- Trong đó:
-    - `GET`: lấy một (`getOne`) hoặc tất cả (`getAll`) dữ liệu của **`resources`**
-    - `POST`: đại diện cho thao tác `CREATE`, `UPDATE`, `DELETE`
-
-Như ta có thể thấy với cấu trúc này hầu hết các thao tác đều được xây dựng bằng `POST API` và không hề có quy tắc nào.
-
-Ta sẽ tiến hành xây dựng các `API` theo cấu trúc `URL` như sau:
-
-<table>
-<thead>
-  <tr>
-   <th>Thao tác</th>
-    <th>Phương thức</th>
-    <th>URL</th>
-    <th>Chú thích</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="2">Read One</td>
-    <td rowspan="2">GET</td>
-    <td><code>/api/get-video/1</code></td>
-    <td rowspan="2">1 thể hiện id của video</td>
-  </tr>
-  <tr>
-    <td><code>/api/get-video?id=1</code></td>
-  </tr>
-  <tr>
-    <td>Read All</td>
-    <td>GET</td>
-    <td><code>/api/get-all-videos</code></td>
-    <td><a>videos</a> là số nhiều</td>
-  </tr>
-  <tr>
-    <td>Create</td>
-    <td>POST</td>
-    <td><code>/api/create-video</code></td>
-    <td>dữ liệu của video sẽ được thêm ở body</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Update</td>
-    <td rowspan="2">POST</td>
-    <td><code>/api/update-video/1</code></td>
-    <td rowspan="2">1 thể hiện id của video</td>
-  </tr>
-  <tr>
-    <td><code>/api/delete-video?id=1</code></td>
-  </tr>
-  <tr>
-    <td rowspan="2">Delete</td>
-    <td rowspan="2">POST</td>
-    <td><code>/api/delete-video?id=1</code></td>
-    <td rowspan="2">1 thể hiện id của video</td>
-  </tr>
-  <tr>
-    <td><code>/api/delete-video/1</code></td>
-  </tr>
-</tbody>
-</table>
-
-::: info <b>Nhận xét</b> 
-Như ta thấy các động từ mô tả nhiệm vụ của api có ngay sau `/api/` như *delete, create, update,...*
-
-Điểm chung dễ nhận biết nhất là các API này thiết kế theo tùy ý người xât dựng hoặc do yêu cầu khách hàng, doanh nghiệp mà không tuân theo một duy tắc nhất quán nào
+::: link {fa-envelope} [creatipath@gmail.com]()
+Gmail của tụi mình
 :::
 
-#### Restful
-
-Vẫn với bài toán trên ta sẽ xây dựng bằng Restful API như sau:
-
-|Thao tác | Phương thức | URL    | Thành công     | Thất bại  | Dư liệu trả về|
-|---------|------------|---------|--------------|-----------|-------------|
-|Read One | GET       | `/api/v1/videos/1`|   200  | 201-500| video|
-|Read All | GET       | `/api/v1/videos`|  200  |  201-500| videos|
-|Create   | POST       | `/api/v1/videos`  | 201| 202-500| new video|
-|Update   | PUT/PATCH   | `/api/videos/1`|  200| 201-500|updated video|
-|Delete   | DELETE       | `/api/v1/videos/1`|    204| 201-500| *NULL*|
-
-#### Bonus
-
-Một số cách viết API theo quy tắc Restful thường được áp dụng để mô tả hành động cụ thể.
-
-Giả sử `Đ` đang xây dựng một mạng xã hội. Với chức năng `search`, `comment` hay `like` thì sẽ viết api thế nào ?
-
-- Tìm kiếm: ==GET== `/api/search?q=key+word`
-
-- Thích:  ==POST== `/api/comments/1/like` || `/api/comments/1?action=like`
-
-- Không thích:  ==POST== `/api/comments/1/unlike` || `/api/comments/1?action=unlike`
-
-## Những câu hỏi phỏng vấn
-
-#### Phân biệt PUT và PATCH
-
-- PUT
-    - Dùng để cập nhật cả đối tượng, thường sẽ truyền toàn bộ thuộc tính muốn cập nhật. 
-    - Những thuộc tính không được truyền sẽ được cập nhật là *NULL*...
-- PATCH
-    - Dùng để cập nhật một vài thuộc tính trong một đối tượng.
-    - Ta có thể truyền một vài thuộc tính muốn cập nhật mà không ảnh hưởng dữ liệu gốc
-
-Ví dụ:
-
-Ta có user như sau:
-```java
-class User {
-    String username;
-    String password;
-    String fullname;
-    String email;
-}
-```
-
-Và api để cập nhật user:
-
-==PUT==   `/api/v1/users/1` <br/>
-==PATCH== `/api/v1/users/1`
-
-```js
-PUT `/api/v1/users/1`
-Content-Type: application/json
-{
-    "user": {
-        fullname: "Trần Hữu Đang",
-        email: "dangdepzai@frog.vn"
-    }
-}
-```
-
-User ban đầu có giá trị:
-
-```java
-User {
-    username: "frogdev", 
-    password: "frog@123",
-    fullname: "Frog Dev",
-    email: "frogdev@frog.vn"    
-}
-```
-
-Sau khi gọi API User sẽ có giá trị:
-
-```java
-User {
-    username: null, 
-    password: null,
-    fullname: "Trần Hữu Đang",
-    email: "dangdepzai@frog.vn"  
-}
-```
-
---- 
-
-Ta có thể thấy `username` và `password` đã được cập nhật thành *NULL*. 
-
-Điều này xảy ra bởi vì `PUT` sẽ cập nhật toàn bộ đối tượng với data truyền vào, nếu thiếu thuộc tính nào, thuộc tính đó sẽ biến thành *NULL*.
-
-
----
-
-Còn với `PATCH`. Giả sử dữ liệu được trả lại ban đầu và ta gọi `PATCH`.
-
-```js
-PATCH `/api/v1/users/1`
-Content-Type: application/json
-{
-    "user": {
-        fullname: "Trần Hữu Đang",
-        email: "dangdepzai@frog.vn"
-    }
-}
-```
-
-Sau khi gọi API User sẽ có giá trị:
-
-```java
-User {
-    username: "frogdev", 
-    password: "frog@123",
-    fullname: "Trần Hữu Đang",
-    email: "dangdepzai@frog.vn"  
-}
-```
-
-Dữ liệu được cập nhật chỉ khi nó có tồn tại trong phần `body` của `request` mà thôi !!!

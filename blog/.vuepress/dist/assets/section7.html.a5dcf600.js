@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7f6f83ac","path":"/blender-short/section7.html","title":"Ph\xEDm t\u1EAFt trong camera","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1712374861000},"readingTime":{"minutes":1,"words":30},"filePathRelative":"blender-short/section7.md"}');export{e as data};
