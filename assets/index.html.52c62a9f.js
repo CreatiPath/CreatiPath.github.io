@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-0c31df68","path":"/tags/tr%E1%BA%A7n-thanh-lan/","title":"Tr\u1EA7n Thanh Lan | Tags","lang":"vi-VN","frontmatter":{"title":"Tr\u1EA7n Thanh Lan | Tags","layout":"Tags","blog":{"type":"category","name":"Tr\u1EA7n Thanh Lan","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{a as data};
