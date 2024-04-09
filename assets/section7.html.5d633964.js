@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as n}from"./app.4fc7dbb2.js";const o={},r=e("h1",{id:"ket-luan",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ket-luan","aria-hidden":"true"},"#"),n(" K\u1EBFt lu\u1EADn")],-1),s=[r];function _(d,i){return a(),c("div",null,s)}var h=t(o,[["render",_],["__file","section7.html.vue"]]);export{h as default};
