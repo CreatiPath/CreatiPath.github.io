@@ -29,9 +29,9 @@ export default defineUserConfig({
         href: `/img/logo/logocp.png`
       }
     ],
-    ["meta", { name: "application-name", content: "Davis" }],
+    ["meta", { name: "application-name", content: "CreatiPath" }],
     // ["meta", { property: "og:image", content: "https://github.com/dangtranhuu/images/blob/main/angurvad/main.png?raw=true" }],
-    ["meta", { name: "apple-mobile-web-app-title", content: "Thean" }],
+    ["meta", { name: "apple-mobile-web-app-title", content: "CreatiPath" }],
     [
       "meta",
       { name: "apple-mobile-web-app-status-bar-style", content: "black" }
@@ -117,14 +117,6 @@ export default defineUserConfig({
       //   path: "/img/home-bg/1.png",
       //   mask: "rgba(40, 57, 101, .4)"
       // },
-      {
-        path: "/img/home-bg/1.jpg",
-        mask: "rgba(196, 176, 131, .1)"
-      },
-      {
-        path: "/img/home-bg/2.jpg",
-        mask: "rgba(68, 74, 83, .1)"
-      },
       {
         path: "/img/home-bg/12.png",
         mask: "rgba(68, 74, 83, .1)"
