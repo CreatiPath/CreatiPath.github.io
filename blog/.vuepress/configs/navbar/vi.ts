@@ -138,22 +138,6 @@ export const vi: NavbarConfig = [
     icon: "la-tools-solid",
     children: [
       {
-        text: "Quản lí mã nguồn với Git và GitHub",
-        link: "/github/",
-        icon: "vi-file-type-git"
-      },
-      {
-        text: "Triển khai mã nguồn với Docker",
-        link: "/docker/",
-        icon: "vi-file-type-docker2"
-      },
-    ]
-  },
-  {
-    text: "Tài nguyên",
-    icon: "si-progress",
-    children: [
-      {
         text: "MS Office",
         // link: "/docs/intro.md",
         icon: "vi-file-type-glitter",
@@ -221,4 +205,76 @@ export const vi: NavbarConfig = [
       },
     ]
   },
+  // {
+  //   text: "Tài nguyên",
+  //   icon: "si-progress",
+  //   children: [
+  //     {
+  //       text: "MS Office",
+  //       // link: "/docs/intro.md",
+  //       icon: "vi-file-type-glitter",
+  //       children: [
+  //         {
+  //           text: "MS Ofice 2016",
+  //           link: "https://drive.google.com/file/d/1WaU74f2Bjl_hA3dTiulAQAOxe1SekfwD/view?usp=drive_link",
+  //           icon: "vi-folder-type-windows"
+  //         },
+  //       ]
+  //     },
+  //     {
+  //       text: "Adobe",
+  //       // link: "/docs/intro.md",
+  //       icon: "vi-file-type-glitter",
+  //       children: [
+  //         {
+  //           text: "Photoshop 2023",
+  //           link: "https://drive.google.com/file/d/1aZqd2Mxjru8u5tj5hdhjDMIpfIHnUFFP/view?usp=share_link",
+  //           icon: "si-adobephotoshop"
+  //         },
+  //         {
+  //           text: "Illustrator 2023",
+  //           link: "https://drive.google.com/file/d/1OgZ8TuYhH7IY-d6TfWEE0G0svOKDOIVk/view?usp=share_link",
+  //           icon: "si-adobeillustrator"
+  //         },
+  //         {
+  //           text: "Aftereffects 2023",
+  //           link: "https://drive.google.com/file/d/1e5ZzCP5qLkJWG9_a7pdexaPDSUHqSjC7/view?usp=share_link",
+  //           icon: "si-adobeaftereffects"
+  //         },
+  //         {
+  //           text: "Premiere 2023",
+  //           link: "https://drive.google.com/file/d/1NwcJDIDDAOgHz5DlDc22Og6H12Zsit-9/view?usp=drive_link",
+  //           icon: "si-adobepremierepro"
+  //         },
+  //         {
+  //           text: "Lightroom Classic 2023",
+  //           link: "https://drive.google.com/file/d/1xpRDeSOg6JgTlX66XUAL8XR95-kYf-om/view?usp=sharing",
+  //           icon: "si-adobelightroom"
+  //         },
+  //         {
+  //           text: "Audition 2023",
+  //           link: "https://drive.google.com/file/d/1zw7_seC8aiym6FS8X3H_ubqkkD0rVN_M/view?usp=sharing",
+  //           icon: "si-adobeaudition"
+  //         },
+  //         {
+  //           text: "Media Encoder 2023",
+  //           link: "https://drive.google.com/uc?id=1yQBVkxIYwE4R2M5RrIY_mynhOa2VJfYT",
+  //           icon: "co-adobe"
+  //         },
+  //       ]
+  //     },
+  //     {
+  //       text: "TechSmith",
+  //       // link: "/docs/intro.md",
+  //       icon: "vi-file-type-glitter",
+  //       children: [
+  //         {
+  //           text: "Camtasia",
+  //           link: "https://drive.google.com/file/d/1VbcUkD0Uyu4zqR9FN_39GFWQX_vw1TqR/view?usp=share_link",
+  //           icon: "bi-record-btn"
+  //         },
+  //       ]
+  //     },
+  //   ]
+  // },
 ];
