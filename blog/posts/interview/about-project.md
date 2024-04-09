@@ -5,7 +5,7 @@ subtitle: Tìm hiểu về CreatiPath
 author: CreatiPath
 date: 2024-06-04
 useHeaderImage: false
-headerImage: /img/home-bg/pages/gioi-thieu-ve-du-an.png
+headerImage: /img/pages/gioi-thieu-ve-du-an.png
 headerMask: rgba(70, 112, 80, 0)
 permalinkPattern: /post/interview/:slug/
 tags:
