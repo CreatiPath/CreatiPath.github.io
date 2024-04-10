@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f176fc4c","path":"/illustrator/section7.html","title":"7. \u1EA4N PH\u1EA8M TRUY\u1EC0N TH\xD4NG - KH\xD4NG ILLUSTRATOR TH\xCC L\xC0 G\xCC ?","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null},"readingTime":{"minutes":18,"words":2861},"filePathRelative":"illustrator/section7.md"}');export{t as data};
