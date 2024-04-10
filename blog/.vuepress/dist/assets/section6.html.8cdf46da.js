@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-f19fac2c","path":"/illustrator-short/section6.html","title":"Ph\xEDm t\u1EAFt trong AI - nh\xF3m l\u1EC7nh Select","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null},"readingTime":{"minutes":1,"words":97},"filePathRelative":"illustrator-short/section6.md"}');export{t as data};

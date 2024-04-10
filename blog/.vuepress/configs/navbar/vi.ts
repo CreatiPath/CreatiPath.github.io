@@ -25,6 +25,16 @@ export const vi: NavbarConfig = [
             link: "/animate/section1.html",
             icon: "co-adobe"
           },
+          {
+            text: "Thiết kế cơ bản với Photoshop",
+            link: "/photoshop/section1.html",
+            icon: "si-adobephotoshop"
+          },
+          {
+            text: "Thiết kế nâng cao với Illustrator",
+            link: "/illustrator/section1.html",
+            icon: "si-adobeillustrator"
+          },
         ]
       },
       {
