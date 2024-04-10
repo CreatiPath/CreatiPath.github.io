@@ -13,6 +13,9 @@ tags:
   - Màu sắc
 ---
 
+<img src="https://count-viewer.vercel.app//api/blog/view?url=https://creatipath.github.io/post/design-core/meaning-of-colors-and-color-application-in-design" alt="Image 1" style="float: left">
+
+
 ![](../../.vuepress/public/img/pages/y-nghia-mau-sac.png)
 
 :::info

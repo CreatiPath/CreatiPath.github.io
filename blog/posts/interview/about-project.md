@@ -12,6 +12,9 @@ tags:
   - project
 ---
 
+<img src="https://count-viewer.vercel.app//api/blog/view?url=https://creatipath.github.io/post/interview/about-project" alt="Image 1" style="float: left">
+
+
 ![](../../.vuepress/public/img/pages/gioi-thieu-ve-du-an.png)
 
 

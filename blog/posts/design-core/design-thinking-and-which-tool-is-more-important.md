@@ -13,6 +13,10 @@ tags:
   - Màu sắc
 ---
 
+<img src="https://count-viewer.vercel.app//api/blog/view?url=https://creatipath.github.io/post/design-core/design-thinking-and-which-tool-is-more-important" alt="Image 1" style="float: left">
+
+
+
 ![](../../.vuepress/public/img/pages/tu-duy-hay-cong-cu-cnqth.png)
 
 Cả tư duy thiết kế và công cụ đều quan trọng trong quá trình thiết kế.

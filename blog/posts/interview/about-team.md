@@ -12,6 +12,8 @@ tags:
   - about
 ---
 
+<img src="https://count-viewer.vercel.app//api/blog/view?url=https://creatipath.github.io/post/interview/about-team" alt="Image 1" style="float: left">
+
 ![](../../.vuepress/public/img/pages/gioi-thieu-ve-nhom.png)
 
 # Giới thiệu dự án

@@ -12,6 +12,9 @@ tags:
   - Thiết kế
 ---
 
+<img src="https://count-viewer.vercel.app//api/blog/view?url=https://creatipath.github.io/post/design-core/timeless-design-principles" alt="Image 1" style="float: left">
+
+
 ![](../../.vuepress/public/img/pages/nguyen-tac-co-ban-trong-thiet-ke.png)
 
 Nếu như những yếu tố cơ bản như đường nét, hình khối,… là cơ sở hình thành nên một thiết kế thì những nguyên tắc chính là “lớp keo” kết nối các yếu tố đó lại với nhau để tạo nên một tổng thể hài hòa và ấn tượng. 

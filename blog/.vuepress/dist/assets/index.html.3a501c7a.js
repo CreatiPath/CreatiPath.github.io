@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-35bcd05e","path":"/illustrator-short/","title":"C\xE1c ph\xEDm t\u1EAFt trong illustrator","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1712374861000},"readingTime":{"minutes":1,"words":124},"filePathRelative":"illustrator-short/readme.md"}');export{t as data};

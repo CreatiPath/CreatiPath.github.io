@@ -15,6 +15,13 @@ export const vi: SidebarConfig = {
     "/illustrator-short/readme.md",
     "/illustrator-short/section1.md",
     "/illustrator-short/section2.md",
+    "/illustrator-short/section3.md",
+    "/illustrator-short/section4.md",
+    "/illustrator-short/section5.md",
+    "/illustrator-short/section6.md",
+    "/illustrator-short/section7.md",
+    "/illustrator-short/section8.md",
+    "/illustrator-short/section9.md",
   ],
   "/aftereffects-short/": [
     // "/aftereffects-short/readme.md",
@@ -61,6 +68,12 @@ export const vi: SidebarConfig = {
     "/animate/section6.md",
     "/animate/section7.md",
   ],
+  "/photoshop-short/": [
+    "/photoshop-short/section1.md",
+    "/photoshop-short/section2.md",
+    "/photoshop-short/section3.md",
+    "/photoshop-short/section4.md",
+  ]
 };
 
 

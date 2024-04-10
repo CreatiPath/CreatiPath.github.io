@@ -13,6 +13,9 @@ tags:
   - Màu sắc
 ---
 
+<img src="https://count-viewer.vercel.app//api/blog/view?url=https://creatipath.github.io/post/design-core/design-trends-in-the-future" alt="Image 1" style="float: left">
+
+
 ![](../../.vuepress/public/img/pages/xu-huong-thiet-ke-trong-tuong-lai.png)
 
 Trong thời gian vừa qua, công việc của một nhà thiết kế đồ họa (Graphic Designer) đã có nhiều thay đổi khi công nghệ ngày càng phát triển. Không chỉ là những hình ảnh tĩnh đơn thuần, giờ đây các thiết kế phải áp dụng nhiều kỹ xảo, tính năng mới lạ như chuyển động (motion), thực tế ảo, thực tế tăng cường, 3D,... để có thể nổi bật trên thị trường, gây ấn tượng và thu hút đối tượng mục tiêu.

@@ -13,6 +13,9 @@ tags:
   - Màu sắc
 ---
 
+<img src="https://count-viewer.vercel.app//api/blog/view?url=https://creatipath.github.io/post/design-core/essential-elements-of-design" alt="Image 1" style="float: left">
+
+
 
 ![](../../.vuepress/public/img/in-post/section3/1.png)
 
