@@ -30,10 +30,6 @@ export const vi: SidebarConfig = {
     "/illustrator/section4.md",
     "/illustrator/section5.md",
     "/illustrator/section6.md",
-    "/illustrator/section7.md",
-    "/illustrator/section8.md",
-    "/illustrator/section9.md",
-    "/illustrator/section10.md",
   ],
   "/aftereffects-short/": [
     // "/aftereffects-short/readme.md",
