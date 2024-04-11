@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as n,d as e}from"./app.a4e3d06d.js";const r={},c=e("p",null,[e("img",{src:"https://github.com/dangtranhuu/images/blob/main/angurvad/docker/2.png?raw=true",alt:""})],-1),o=[c];function s(_,d){return a(),n("div",null,o)}var l=t(r,[["render",s],["__file","index.html.vue"]]);export{l as default};
