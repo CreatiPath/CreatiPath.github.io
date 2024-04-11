@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-01383679","path":"/photoshop-short/section4.html","title":"Ph\xEDm t\u1EAFt v\u1EC1 c\xF4ng c\u1EE5","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1712734083000},"readingTime":{"minutes":2,"words":204},"filePathRelative":"photoshop-short/section4.md"}');export{t as data};

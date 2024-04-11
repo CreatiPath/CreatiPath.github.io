@@ -54,7 +54,7 @@ export const vi: SidebarConfig = {
   "/indesign-short/": [
     // "/java-collections/readme.md",
     "/indesign-short/section1.md",
-    "/indesign-short/section2.md",
+    // "/indesign-short/section2.md",
   ],
   "/blender-short/": [
     // "/aftereffects-short/readme.md",
@@ -87,7 +87,19 @@ export const vi: SidebarConfig = {
     "/photoshop/section2.md",
     "/photoshop/section3.md",
     "/photoshop/section4.md",
-  ]
+  ],
+  "/after-effects/": [
+    // "/aftereffects-short/readme.md",
+    "/after-effects/section1.md",
+    "/after-effects/section2.md",
+    "/after-effects/section3.md",
+    "/after-effects/section4.md",
+    "/after-effects/section5.md",
+    "/after-effects/section6.md",
+  ],
+  "/indesign/": [
+    "/indesign/readme.md",
+  ],
 };
 
 

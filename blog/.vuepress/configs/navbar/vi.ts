@@ -35,27 +35,22 @@ export const vi: NavbarConfig = [
             link: "/illustrator/section1.html",
             icon: "si-adobeillustrator"
           },
+          {
+            text: "Thiết kế nâng cao với After Efects",
+            link: "/after-effects/section1.html",
+            icon: "si-adobeaftereffects"
+          },
+          {
+            text: "Thiết kế nâng cao với Indesign",
+            link: "/indesign/",
+            icon: "si-adobeindesign"
+          },
         ]
       },
       {
         text: "Thiết kế 3D",
         icon: "fc-command-line",
         children: [
-          {
-            text: "NodeJS",
-            link: "/nodejs/",
-            icon: "vi-file-type-node"
-          },
-          {
-            text: "Spring Boot",
-            link: "/spring-boot/",
-            icon: "co-spring"
-          },
-          {
-            text: "PHP Zero to Hero",
-            link: "/php-core/",
-            icon: "vi-file-type-php2"
-          },
         ]
       },
     ]
@@ -71,7 +66,7 @@ export const vi: NavbarConfig = [
         children: [
           {
             text: "Phím tắt Photoshop",
-            link: "/graph/",
+            link: "/photoshop-short/section1.html",
             icon: "si-adobephotoshop"
           },
           {

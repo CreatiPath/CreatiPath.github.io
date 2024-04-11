@@ -5,7 +5,7 @@ subtitle: 6 Điều làm nên một thiết kế tốt
 author: CreatiPath Team
 date: 2024-08-04
 useHeaderImage: false
-headerImage: /img/pages/nguyen-tac-trong-thiet-ke.png
+headerImage: /img/pages/4.png
 headerMask: rgba(70, 112, 80, 0.8)
 permalinkPattern: /post/design-core/:slug
 tags:

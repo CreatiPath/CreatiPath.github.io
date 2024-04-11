@@ -5,7 +5,7 @@ subtitle: 7 nguyên tắc “bất hủ” trong thiết kế
 author: CreatiPath Team
 date: 2024-08-04
 useHeaderImage: false
-headerImage: /img/pages/nguyen-tac-co-ban-trong-thiet-ke.png
+headerImage: /img/pages/2.png
 headerMask: rgba(70, 112, 80, 0)
 permalinkPattern: /post/design-core/:slug/
 tags:

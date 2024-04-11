@@ -5,7 +5,7 @@ subtitle: Design Trends in the Future
 author: CreatiPath Team
 date: 2024-08-04
 useHeaderImage: false
-headerImage: /img/pages/xu-huong-thiet-ke-trong-tuong-lai.png
+headerImage: /img/pages/5.png
 headerMask: rgba(70, 112, 80, 0.8)
 permalinkPattern: /post/design-core/:slug
 tags:

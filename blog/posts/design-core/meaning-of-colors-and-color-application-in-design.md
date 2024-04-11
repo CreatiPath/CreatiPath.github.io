@@ -5,7 +5,7 @@ subtitle: Meaning of colors and color application in design
 author: CreatiPath Team
 date: 2024-08-04
 useHeaderImage: false
-headerImage: /img/pages/y-nghia-mau-sac.png
+headerImage: /img/pages/3.png
 headerMask: rgba(70, 112, 80, 0.8)
 permalinkPattern: /post/design-core/:slug/
 tags:

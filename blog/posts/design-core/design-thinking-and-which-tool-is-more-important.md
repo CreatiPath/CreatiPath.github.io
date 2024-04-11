@@ -5,7 +5,7 @@ subtitle: Design Thinking and Which Tool is More Important
 author: CreatiPath Team
 date: 2024-08-04
 useHeaderImage: false
-headerImage: /img/pages/tu-duy-hay-cong-cu-cnqth.png
+headerImage: /img/pages/6.png
 headerMask: rgba(70, 112, 80, 0.8)
 permalinkPattern: /post/design-core/:slug
 tags:
