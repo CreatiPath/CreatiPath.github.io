@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-b179d932","path":"/animate/","title":"Ph\xEDm t\u1EAFt","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1712374861000},"readingTime":{"minutes":1,"words":4},"filePathRelative":"animate/readme.md"}');export{e as data};

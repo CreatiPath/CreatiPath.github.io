@@ -3,7 +3,7 @@ layout: Post
 title: Những điều cần có trong 1 thiết kế
 subtitle: 6 Điều làm nên một thiết kế tốt
 author: CreatiPath Team
-date: 2024-08-04
+date: 04-08-2024
 useHeaderImage: false
 headerImage: /img/pages/4.png
 headerMask: rgba(70, 112, 80, 0.8)
@@ -17,7 +17,7 @@ tags:
 
 
 
-![](../../.vuepress/public/img/in-post/section3/1.png)
+![](../../.vuepress/public/img/pages/4.png)
 
 :::info <b>Từ điển Oxford định nghĩa:</b>
 Cái đẹp là sự kết hợp của những phẩm chất như hình dạng, màu sắc hoặc hình thức, làm thỏa mãn các giác quan thẩm mỹ, đặc biệt là thị giác."

@@ -3,7 +3,7 @@ layout: Post
 title: Giới thiệu về dự án
 subtitle: Tìm hiểu về CreatiPath
 author: CreatiPath
-date: 2024-06-04
+date: 04-06-2024
 useHeaderImage: false
 headerImage: /img/pages/1.png
 headerMask: rgba(70, 112, 80, 0)

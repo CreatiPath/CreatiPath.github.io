@@ -3,7 +3,7 @@ layout: Post
 title: Ý nghĩa màu sắc và cách ứng dụng màu trong thiết kế
 subtitle: Meaning of colors and color application in design
 author: CreatiPath Team
-date: 2024-08-04
+date: 04-08-2024
 useHeaderImage: false
 headerImage: /img/pages/3.png
 headerMask: rgba(70, 112, 80, 0.8)
@@ -16,7 +16,7 @@ tags:
 <img src="https://count-viewer.vercel.app//api/blog/view?url=https://creatipath.github.io/post/design-core/meaning-of-colors-and-color-application-in-design" alt="Image 1" style="float: left">
 
 
-![](../../.vuepress/public/img/pages/y-nghia-mau-sac.png)
+![](../../.vuepress/public/img/pages/3.png)
 
 :::info
 Màu sắc là linh hồn của thiết kế. Nó là nghệ thuật, và cũng là khoa học. Mỗi màu sắc đều mang những cảm xúc và ý nghĩa riêng, trong bài viết này chúng ta sẽ tìm hiểu ý nghĩa màu sắc phổ biến nhất. Ngoài ra, bài viết cũng sẽ liệu kê một số ví dụ về cách ứng dụng màu sắc trong thiết kế, để bạn có cái nhìn bao quát hơn về cách sử dụng màu sắc. 

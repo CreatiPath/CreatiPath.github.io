@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-07cca6c8","path":"/photoshop-short/section1.html","title":"C\xE1c ph\xEDm ch\u1EE9c n\u0103ng chung","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1712734083000},"readingTime":{"minutes":2,"words":170},"filePathRelative":"photoshop-short/section1.md"}');export{t as data};

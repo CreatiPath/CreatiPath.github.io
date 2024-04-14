@@ -3,7 +3,7 @@ layout: Post
 title: Nguyên tắc cơ bản trong thiết kế
 subtitle: 7 nguyên tắc “bất hủ” trong thiết kế
 author: CreatiPath Team
-date: 2024-08-04
+date: 04-14-2024
 useHeaderImage: false
 headerImage: /img/pages/2.png
 headerMask: rgba(70, 112, 80, 0)
@@ -15,7 +15,7 @@ tags:
 <img src="https://count-viewer.vercel.app//api/blog/view?url=https://creatipath.github.io/post/design-core/timeless-design-principles" alt="Image 1" style="float: left">
 
 
-![](../../.vuepress/public/img/pages/nguyen-tac-co-ban-trong-thiet-ke.png)
+![](../../.vuepress/public/img/pages/2.png)
 
 Nếu như những yếu tố cơ bản như đường nét, hình khối,… là cơ sở hình thành nên một thiết kế thì những nguyên tắc chính là “lớp keo” kết nối các yếu tố đó lại với nhau để tạo nên một tổng thể hài hòa và ấn tượng. 
 
