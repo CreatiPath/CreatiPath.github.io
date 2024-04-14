@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-5c3f0ea8","path":"/tags/kh%C3%B4ng-gian/","title":"Kh\xF4ng gian | Tags","lang":"vi-VN","frontmatter":{"title":"Kh\xF4ng gian | Tags","layout":"Tags","blog":{"type":"category","name":"Kh\xF4ng gian","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{a as data};
