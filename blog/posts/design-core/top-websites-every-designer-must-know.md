@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Sự quan tọng của không gian âm trong thiết kế
+title: Top những trang web mà designer cần phải biết
 subtitle: Top websites every designer must know!
 author: CreatiPath Team
 date: 04-14-2024
