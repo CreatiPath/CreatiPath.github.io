@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e5db2a5c","path":"/after-effects/section5.html","title":"5. C\xE1c lo\u1EA1i g\xF3i Adobe After Effects","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1712822508000},"readingTime":{"minutes":18,"words":2877},"filePathRelative":"after-effects/section5.md"}');export{e as data};
