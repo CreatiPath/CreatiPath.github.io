@@ -51,6 +51,11 @@ export const vi: NavbarConfig = [
         text: "Thiết kế 3D",
         icon: "fc-command-line",
         children: [
+          {
+            text: "Thiết kế 3D với Blender",
+            link: "/blender/",
+            icon: "si-blender"
+          },
         ]
       },
     ]
@@ -142,18 +147,18 @@ export const vi: NavbarConfig = [
     text: "Công cụ",
     icon: "la-tools-solid",
     children: [
-      {
-        text: "MS Office",
-        // link: "/docs/intro.md",
-        icon: "vi-file-type-glitter",
-        children: [
-          {
-            text: "MS Ofice 2016",
-            link: "https://drive.google.com/file/d/1WaU74f2Bjl_hA3dTiulAQAOxe1SekfwD/view?usp=drive_link",
-            icon: "vi-folder-type-windows"
-          },
-        ]
-      },
+      // {
+      //   text: "MS Office",
+      //   // link: "/docs/intro.md",
+      //   icon: "vi-file-type-glitter",
+      //   children: [
+      //     {
+      //       text: "MS Ofice 2016",
+      //       link: "https://drive.google.com/file/d/1WaU74f2Bjl_hA3dTiulAQAOxe1SekfwD/view?usp=drive_link",
+      //       icon: "vi-folder-type-windows"
+      //     },
+      //   ]
+      // },
       {
         text: "Adobe",
         // link: "/docs/intro.md",
@@ -197,17 +202,29 @@ export const vi: NavbarConfig = [
         ]
       },
       {
-        text: "TechSmith",
+        text: "Maxon",
         // link: "/docs/intro.md",
         icon: "vi-file-type-glitter",
         children: [
           {
-            text: "Camtasia",
-            link: "https://drive.google.com/file/d/1VbcUkD0Uyu4zqR9FN_39GFWQX_vw1TqR/view?usp=share_link",
-            icon: "bi-record-btn"
+            text: "Cinema 4D",
+            link: "https://drive.google.com/drive/folders/1galvH0d0bsQnCwRXszZovzeWmFkdw0mA?usp=sharing",
+            icon: "si-cinema4d"
           },
         ]
       },
+      // {
+      //   text: "TechSmith",
+      //   // link: "/docs/intro.md",
+      //   icon: "vi-file-type-glitter",
+      //   children: [
+      //     {
+      //       text: "Camtasia",
+      //       link: "https://drive.google.com/file/d/1VbcUkD0Uyu4zqR9FN_39GFWQX_vw1TqR/view?usp=share_link",
+      //       icon: "bi-record-btn"
+      //     },
+      //   ]
+      // },
     ]
   },
   // {

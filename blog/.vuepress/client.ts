@@ -56,7 +56,8 @@ import {
   SiBlender,
   SiAdobeindesign,
   MdDraw,
-  MdKeyboardoptionkeyOutlined
+  MdKeyboardoptionkeyOutlined,
+  SiCinema4D
 } from "oh-vue-icons/icons";
 
 addIcons(
@@ -116,7 +117,8 @@ addIcons(
   SiBlender,
   SiAdobeindesign,
   MdDraw,
-  MdKeyboardoptionkeyOutlined
+  MdKeyboardoptionkeyOutlined,
+  SiCinema4D
 );
 
 export default defineClientConfig({});

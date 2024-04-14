@@ -1,4 +1,4 @@
-# Giới thiệu dự án
+# Giới thiệu thành viên
 
 CreatiPath - Hành trình đến với sáng tạo
 Đây là một dự án được thực hiện bởi các bạn sinh viên thiết kế đồ họa với mục đích tạo ra một kho kiến thức cho cộng đồng các bạn đã và đang hoặc sẽ trở thành một nhà thiết kế đồ họa có nhu cầu tìm hiểu, học hỏi thêm các thông tin về ngành đồ họa.
