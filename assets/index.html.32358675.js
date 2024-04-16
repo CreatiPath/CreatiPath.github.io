@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c2d8b5ac","path":"/blender/","title":"Ph\xEDm t\u1EAFt","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null},"readingTime":{"minutes":1,"words":4},"filePathRelative":"blender/readme.md"}');export{e as data};
