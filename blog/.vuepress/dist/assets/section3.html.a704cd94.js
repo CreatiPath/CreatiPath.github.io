@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4caff6c1","path":"/blender/section3.html","title":"3. C\xE1c t\xEDnh n\u0103ng m\u1EA1nh m\u1EBD c\u1EE7a Blender l\xE0 g\xEC?","lang":"vi-VN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null},"readingTime":{"minutes":67,"words":10627},"filePathRelative":"blender/section3.md"}');export{e as data};

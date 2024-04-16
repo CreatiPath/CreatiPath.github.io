@@ -66,6 +66,16 @@ export const vi: SidebarConfig = {
     "/blender-short/section6.md",
     "/blender-short/section7.md",
   ],
+  "/blender/": [
+    // "/aftereffects-short/readme.md",
+    "/blender/section1.md",
+    "/blender/section2.md",
+    "/blender/section3.md",
+    "/blender/section4.md",
+    "/blender/section5.md",
+    "/blender/section6.md",
+    "/blender/section7.md",
+  ],
   "/animate/": [
     // "/aftereffects-short/readme.md",
     "/animate/section1.md",

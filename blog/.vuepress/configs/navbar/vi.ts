@@ -53,7 +53,7 @@ export const vi: NavbarConfig = [
         children: [
           {
             text: "Thiết kế 3D với Blender",
-            link: "/blender/",
+            link: "/blender/section1.html",
             icon: "si-blender"
           },
         ]
